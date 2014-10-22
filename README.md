@@ -1,0 +1,4 @@
+WINMenuTest
+===========
+
+simple menu test
